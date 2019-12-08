@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is project that you could check some recipes of a kind of food/dish,you could also see the calories,the ingredients,etc
-thanks to the api provided by edamam.
+This is project that you could check some recipes of a kind of food/dish,you could also see the calories,the ingredients,etc.
+Besides,you could also search these informations from the search bar(for example, banana,peanut ...).
+
 
 ### `npm start`
 
