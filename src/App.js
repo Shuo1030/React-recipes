@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
   const APP_ID = "your_app_id";
-  const APP_KEY = "your_app_key";//check this two informatio by your own
+  const APP_KEY = "your_app_key";//check this two information by your own
   
 
   const [recipes,setRecipes] = useState([]);
